@@ -1,0 +1,14 @@
+main {
+    display: flex;
+
+}
+
+.theory {
+    display: flex;
+    flex-direction: column;
+}
+
+.result {
+    display: flex;
+    margin: 5em;
+}
